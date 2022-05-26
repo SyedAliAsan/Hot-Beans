@@ -1,0 +1,80 @@
+h1 {font-family: 'Merriweather', serif;}
+p {font-family: 'Merriweather', serif;}
+h6 {font-family: 'Merriweather', serif;}
+h5 {font-family: 'Merriweather', serif;}
+h3 {font-family: 'Merriweather', serif;}
+body { 
+    background-color: white;
+
+}
+.header {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 1600px;
+    border: 2px solid black;
+    background-color: rgb(199, 232, 243);
+    
+}
+.image {
+    margin-top: 100px;
+    margin-bottom: 0px;
+    margin-left: 675px;
+    margin-right: 0px;
+    
+}
+.bottom {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 15px;
+    padding-bottom: 200px;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(199, 232, 243)
+}
+
+.card-group {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    border: 2px solid black;
+    background-color: rgb(199, 232, 243);
+}
+.text-space {
+    margin-top: 50px;
+    margin-bottom: auto;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 15px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(199, 232, 243);
+}
+.form-group {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background: rgb(199, 232, 243);
+    border: 2px solid black;
+    
+}
+.courseimage {
+    margin-left: 400px;
+   
+}
+.collapse {
+    background-color: rgb(199, 232, 243);
+    border: 2px solid black;
+}
